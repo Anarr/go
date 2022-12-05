@@ -1,0 +1,11 @@
+{
+  "rabbitmq": {
+    "host": "localhost",
+    "username": "user",
+    "password": "password",
+    "port": 7001
+  },
+  "redis": {
+    "port": 6379
+  }
+}
